@@ -1,6 +1,7 @@
 #### FFR_mgimond-Spatial  
 FFR: Forked For Reference  
 https://ckingdon.github.io/FFR_mgimond-Spatial/index.html  
+----
 This is one of several repos I've found while searching across the web for help with various technical hurdles. Sometimes I come across a repo that's so good that I'm going to preserve it in my own account for future reference (FFR, forked for reference, filed for reference, for future reference)
 ----
 How I found it: I came across this repo while searching for information on spatial autocorrelation.
